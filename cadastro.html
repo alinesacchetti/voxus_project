@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>FORMULÁRIO</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-signin-scope" content="profile email">
+        <meta name="google-signin-client_id" content="591449979960-q8dcp16anqqn3o9ojpn5lbsvc9pi6u15.apps.googleusercontent.com">
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <link rel="stylesheet" type ="text/css" href ="design.css"> 
+        <script src="script.js"></script>
+    </head>
+    <body>        
+        <label for="campoNome">Nome:</label>
+        <input id="campoNome" type="text">
+        <label for="campoTexto">Texto:</label>
+        <input id="campoTexto" type="text">     
+        
+        <footer id="rodape">
+            <hr>            
+            <button id="botaoEnviar">Enviar</button>
+            <button id="botaoLimpar">Limpar</button>
+            <button id="botaoEditar">Editar</button>
+            <button id="botaoVisualizar">Exibir</button>
+            <button onclick="signOut()">Sair</button>
+            <hr>
+        </footer>
+    </body>
+</html>
