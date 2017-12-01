@@ -1,3 +1,3 @@
 # voxus_project
 Repositório criado para desenvolvimento do desafio.
-Neste projeto foram desenvolvidas as partes 1 e 2. 
+Neste projeto foram desenvolvidas as partes 1 e 2.                                                                                    Parte 1: Na página index.html pode ser visto a caixa de login autenticado com google, porém este login não está redirecionando para a próxima página. Os sites de referência para o desenvolvimento do projeto são:                                                     https://mariovalney.com/como-colocar-o-login-do-google-no-meu-site/,                                                                            (tempo de desenvolvimento: 8 horas) 
