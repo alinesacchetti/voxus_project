@@ -9,3 +9,4 @@ https://developers.google.com/identity/sign-in/web/
 Parte 2: Na página cadastro.html foi desenvolvida as caixas de texto "Nome" e "Texto" para que o usuário escreva alguma informação e as salve no servidor web do NetBeans, porém não foi possível desenvolver a comunição entre eles pois o tempo do desafio havia se esgotado. 
 Para esta página foi utilizado como referência a apostila "Desenvolvimento Web com HTML, CSS e Javascript (K19 Treinamentos)" 
 (tempo de desenvolvimento: 4 horas). 
+Houve dificuldades em desenvolver o projeto pois não consegui arrumar um tempo maior, mas consegui aprender muito com esta desafio. Uma das coisas que aprendi, por exemplo, foi a como utilizar algumas ferramentas Google para interação com minha página Web.
